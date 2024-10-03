@@ -1,6 +1,6 @@
 # ChivesBot
 
-ChivesBot is a GitHub + Slack app to bring you relevant notifications from GitHub in Slack.
+ChivesBot is a GitHub + Slack app that brings you relevant notifications from GitHub in Slack.
 
 We got frustrated with GitHub's official Slack integration.
 
@@ -12,6 +12,6 @@ Why can't you mute pull-request notifications that were created by bots such as 
 
 We're building something better.
 
-At it's core, we want more flexibility when creating notifications than the official integration.
+At its core, we want more flexibility when creating notifications than the official integration.
 
 If this sounds interesting, you can join our launch list at https://chivesbot.com
